@@ -1,5 +1,5 @@
-# MojVozduh(The Air App) Data Exports
-Exports of the data collected from the MojVozduh about Macedonian Air Pollution from 2015 onwards.
+# AirCare (MojVozduh) Data Exports
+Exports of the data collected from AirCare about Macedonian Air Pollution from 2015 onwards.
 Feel free to use it in any way you wish.
 
 ## Format
