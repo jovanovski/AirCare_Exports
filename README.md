@@ -7,5 +7,5 @@ CSV
 
 ## Disclaimer
 The data can be incomplete if the measurement stations / government website / the app was down.
-Weather data is only available for non AQI measurements, and was not implemented before early 2016.
-MojVozduh and me take no responsibility for the correctness & accuracy of the data.
+Weather data is only available for non AQI measurements, and was not implemented before early 2016 and dismissed in 2019.
+AirCare takes no responsibility for the correctness & accuracy of the data.
